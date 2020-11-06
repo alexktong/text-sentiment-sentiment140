@@ -1,3 +1,5 @@
+# Classifies texts into positive and negative sentiment.
+
 import random
 from textblob import TextBlob
 from sklearn.linear_model import SGDClassifier
